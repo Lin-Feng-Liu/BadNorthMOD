@@ -1,6 +1,3 @@
 # BepInEx 运行时生成文件
 MOD/BepInEx/LogOutput.log
 MOD/BepInEx/cache/
-
-# 本机 Steam 云存档备份
-恢复手抄本/
