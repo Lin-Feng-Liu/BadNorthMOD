@@ -1,0 +1,24 @@
+打开steam，右键北方绝境，鼠标移动至“管理”，然后点击“浏览本地文件”
+
+直接将文件夹里的BepInEx，.doorstop_version.dll，doorstop_config.ini和winhttp.dll拖进当前页面，保证这四个文件和BadNorth.exe在一个路径下。
+
+然后点击“BadNorth_Data”，点击“Managed”，你会看到一个名为“Assembly-CSharp.dll”的文件。
+删除（你可以找个地方备份一份以后可以替换回来）这个“Assembly-CSharp.dll”，然后将mod文件夹下的“Assembly-CSharp.dll”拖进去。
+
+
+
+然后由于本次mod为了带回红盾，兼并了了前辈Nacu的mod，前辈Nacu的mod会导致手抄本清空，所以我推荐你按照以下步骤备份这两份文件，这样你就不用重新刷手抄本了。
+
+打开这个路径：
+C:\Users\“你的用户名”\AppData\LocalLow\Plausible Concept\Bad North
+
+在这个路径下你会看到一个“Saves”文件夹，这个是你的存档文件，我推荐你备份一下，因为下一步会清掉你现在有的存档。
+
+
+打开这个路径：
+C:\Program Files (x86)\Steam\userdata\XXXXXXXXXX(这里为一串随机的数字)\688420
+
+将688420文件夹备份，然后拖动我mod文件夹里的688420替换掉你原先的688420文件夹。
+
+在这一步后你会获得一个满的手抄本，如果没有可以在群里@管理或者群主。
+
