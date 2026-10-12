@@ -17,6 +17,7 @@ C:\Users\“你的用户名”\AppData\LocalLow\Plausible Concept\Bad North
 
 打开这个路径：
 C:\Program Files (x86)\Steam\userdata\XXXXXXXXXX(这里为一串随机的数字)\688420
+（不一定是c盘，看你steam安装在哪个盘就去找哪个盘）
 
 将688420文件夹备份，然后拖动我mod文件夹里的688420替换掉你原先的688420文件夹。
 
