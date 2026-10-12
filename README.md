@@ -1,3 +1,8 @@
+# 作者的爱发电主页，有能力可以请作者喝杯咖啡~
+> https://afdian.com/a/linfengliu
+
+
+
 # MOD 信息与许可
 
 ---
