@@ -1,0 +1,18 @@
+{
+  "DeployedAt": "2026-10-30T21:19:18.5515016+08:00",
+  "Files": [
+    {
+      "File": "ShieldSpear.dll",
+      "Version": "1.2.1.0",
+      "SHA256": "45A435FA02F33FBD608C8630875E534158982D8CA668643377AC528583D2EF0E"
+    },
+    {
+      "File": "SkillIcons.dll",
+      "Version": "1.4.1.0",
+      "SHA256": "FBAA3D875B49D47A12857F612A2749F57A4D185467A270F45D6136738F00ED88"
+    }
+  ],
+  "LastStandIcon": "D:\\SteamLibrary\\steamapps\\common\\BadNorth\\BepInEx\\plugins\\LastStand.png",
+  "IconSHA256": "2C3525F706CC544F2CE489D2011DD1C53BBAD41D878ED999051E992B2E4F2B42",
+  "CopiedIconMatchesOriginal": true
+}

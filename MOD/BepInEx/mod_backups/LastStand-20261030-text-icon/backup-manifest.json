@@ -1,0 +1,14 @@
+{
+  "CreatedAt": "2026-10-30T21:19:18.0702683+08:00",
+  "Purpose": "死战不退简短文本与独立图标更新前备份",
+  "Files": [
+    {
+      "File": "ShieldSpear.dll",
+      "SHA256": "6044E153821774BB8DADC550A80F74CCA49E30B0D4123274A412744DBFBDDC0B"
+    },
+    {
+      "File": "SkillIcons.dll",
+      "SHA256": "A8C86C63768D017A4E84A29DC16EE0945B6F54D907B755B1876746C7D5F74E29"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BadNorthSandbox xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1</Version>
+  <Name>基础交战</Name>
+  <Map>
+    <CampaignSeed>20261103</CampaignSeed>
+    <LevelIndex>20</LevelIndex>
+    <LevelSeed>0</LevelSeed>
+    <Width>9</Width>
+    <Height>2</Height>
+    <CoinTarget>6</CoinTarget>
+    <MinimumBeach>4</MinimumBeach>
+    <Environment>2018.4.0f1;badnorth.migration.combat_support=1.0.0;badnorth.migration.fearless=1.0.0;badnorth.migration.giant_squads=1.0.0;badnorth.migration.house_rules=1.0.0;badnorth.migration.instant_replenish=1.0.0;badnorth.migration.shield_charge=1.0.0;com.antigravity.audio_mine=0.2.0;com.antigravity.badnorth.commanders_sail_in_endless_finale=0.1.2;com.antigravity.badnorth.endless_finale=0.5.7;com.antigravity.banner_enhance=1.1.0;com.antigravity.firearrows=4.5.0;com.antigravity.sage_time_freeze=1.0.0;com.badnorth.cache32=1.0.0;com.badnorth.plentytraits.axeenhance=1.5.4;com.linfeng.campaign_expansion=1.0.0;com.linfeng.developer_tools=1.0.0;com.linfeng.heavy_shield=1.0.2;com.linfeng.manuscript_unlock=1.0.0;com.linfeng.runtime_stability=1.0.0;com.linfeng.sandbox_mode=0.1.0;com.linfeng.shield_spear=1.3.0;com.linfeng.time_control=1.0.0;com.linfeng.together=0.7.0;com.modder.badnorth.skillicons=1.4.1;com.modder.giant_command_ring=1.0.1;com.modder.guerrilla_archery=1.4.1;com.modder.viking_spearman=2.1.0;com.six.june.wash_class=1.1.0;com.yyyyy.deadisnotenemy=1.0.0;fancy.tankarcherfix=1.0.0;nacu.bnapi=1.0;nacu.bringbackberserkers=1.0;nacu.plentytraits=1.1.0</Environment>
+    <Tiles>
+      <string>Rocks</string>
+      <string>Waterfalls</string>
+    </Tiles>
+  </Map>
+  <Automatic>false</Automatic>
+  <Units>
+    <SandboxUnit>
+      <Id>ff80546507414b8e89c4c7f08d295989</Id>
+      <Side>Blue</Side>
+      <Kind>Hero_Class_Infantry</Kind>
+      <Count>8</Count>
+      <Level>1</Level>
+      <Trait />
+      <Item />
+      <ItemLevel>1</ItemLevel>
+      <SkillLevel>1</SkillLevel>
+      <NavSpot>2</NavSpot>
+      <X>-3.5</X>
+      <Y>0.008643076</Y>
+      <Z>-2.5</Z>
+    </SandboxUnit>
+    <SandboxUnit>
+      <Id>7b75fe3a389d43fd96501337db562f77</Id>
+      <Side>Blue</Side>
+      <Kind>Hero_Class_Archers</Kind>
+      <Count>8</Count>
+      <Level>1</Level>
+      <Trait />
+      <Item />
+      <ItemLevel>1</ItemLevel>
+      <SkillLevel>1</SkillLevel>
+      <NavSpot>17</NavSpot>
+      <X>-3.5</X>
+      <Y>0.0459467024</Y>
+      <Z>-1.5</Z>
+    </SandboxUnit>
+    <SandboxUnit>
+      <Id>5b2cf0f5ac4a435bac14b107bab71605</Id>
+      <Side>Red</Side>
+      <Kind>Viking_Sword</Kind>
+      <Count>10</Count>
+      <Level>1</Level>
+      <Trait />
+      <Item />
+      <ItemLevel>1</ItemLevel>
+      <SkillLevel>1</SkillLevel>
+      <NavSpot>7</NavSpot>
+      <X>3.5</X>
+      <Y>0.0331468955</Y>
+      <Z>0.5</Z>
+    </SandboxUnit>
+    <SandboxUnit>
+      <Id>f66622663c2b4dcbb20d332375d0cf1b</Id>
+      <Side>Red</Side>
+      <Kind>Viking_SwordShield</Kind>
+      <Count>8</Count>
+      <Level>1</Level>
+      <Trait />
+      <Item />
+      <ItemLevel>1</ItemLevel>
+      <SkillLevel>1</SkillLevel>
+      <NavSpot>8</NavSpot>
+      <X>3.5</X>
+      <Y>0.0342666879</Y>
+      <Z>-0.5</Z>
+    </SandboxUnit>
+  </Units>
+</BadNorthSandbox>
